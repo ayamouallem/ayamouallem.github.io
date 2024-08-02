@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-11-15
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+My research on engineering accessibility was featured in the <em> Stanford Report. </em> [Link](https://news.stanford.edu/stories/2023/11/accessible-engineering)
