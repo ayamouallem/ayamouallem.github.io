@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: cv2024.pdf
-description: You can download my academic CV using the button to the right.
-toc:
-  sidebar: left
+description:
+
 ---
+<embed src=cv2024.pdf width="100%" height="600px" type="application/pdf">
