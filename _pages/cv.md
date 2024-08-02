@@ -8,4 +8,6 @@ cv_pdf: cv2024.pdf
 description:
 
 ---
-<embed src=cv2024.pdf width="100%" height="600px" type="application/pdf">
+<body>
+  <embed src=cv_pdf width="100%" height="600px" type="application/pdf">
+</body>
