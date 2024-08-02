@@ -9,5 +9,5 @@ description:
 
 ---
 <body>
-  <embed src=cv_pdf width="100%" height="600px" type="application/pdf">
+  <embed src="./pdf/cv2024.pdf" width="100%" height="600px" type="application/pdf">
 </body>
